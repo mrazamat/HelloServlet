@@ -7,8 +7,16 @@
         <servlet-name>Chapter 1 Servlet</servlet-name>
         <servlet-class>uz.coder.servlets.Ch1Servlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>Beer</servlet-name>
+        <servlet-class>uz.coder.servlets.BeerSelect</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>Chapter 1 Servlet</servlet-name>
         <url-pattern>/Serv1</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Beer</servlet-name>
+        <url-pattern>/SelectBeer.do</url-pattern>
     </servlet-mapping>
 </web-app>
