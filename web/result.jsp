@@ -3,7 +3,7 @@
 <%@ page contentType="text/html;charset=UTF-8" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Result</title>
 </head>
 <body>
 <h1>Beer recomendation JSP</h1>
