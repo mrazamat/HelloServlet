@@ -8,9 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="58e3dffc-dcd2-4ace-a6b7-b9383604a38d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uz/coder/servlets/BeerSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uz/coder/servlets/BeerSelect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/result.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/uz/coder/servlets/BeerSelect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
+            <state relative-caret-position="204">
               <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -54,7 +51,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/result.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="472">
               <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
@@ -63,7 +60,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/uz/coder/model/BeerExpert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="119">
               <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -283,7 +280,8 @@
       <workItem from="1545811665414" duration="1000" />
       <workItem from="1545925597148" duration="302000" />
       <workItem from="1545926317726" duration="613000" />
-      <workItem from="1545927375293" duration="815000" />
+      <workItem from="1545927375293" duration="917000" />
+      <workItem from="1546057470308" duration="92000" />
     </task>
     <task id="LOCAL-00001" summary="This is my first servlet">
       <created>1545719740877</created>
@@ -313,11 +311,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545756032608</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Servlets and JSP">
+      <created>1545930419496</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1545930419496</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11957000" />
+    <option name="totallyTimeSpent" value="12151000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -423,7 +428,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/uz/coder/servlets/BeerSelect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="204">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -433,7 +438,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/uz/coder/model/BeerExpert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="119">
           <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -443,7 +448,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/result.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="472">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
